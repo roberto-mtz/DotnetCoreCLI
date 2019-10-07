@@ -1,0 +1,11 @@
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/bin/Debug/netcoreapp2.2/DotnetCoreCLI.deps.json
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/bin/Debug/netcoreapp2.2/DotnetCoreCLI.runtimeconfig.json
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/bin/Debug/netcoreapp2.2/DotnetCoreCLI.runtimeconfig.dev.json
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/bin/Debug/netcoreapp2.2/DotnetCoreCLI.dll
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/bin/Debug/netcoreapp2.2/DotnetCoreCLI.pdb
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.csprojAssemblyReference.cache
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.csproj.CoreCompileInputs.cache
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.AssemblyInfoInputs.cache
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.AssemblyInfo.cs
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.dll
+/Users/roberto/Desktop/CDN/w4/project/DotnetCoreCLI/obj/Debug/netcoreapp2.2/DotnetCoreCLI.pdb
